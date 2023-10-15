@@ -6,7 +6,7 @@ Want to get started with Java, but don't know how? Refer to our [intro assignmen
 ## Lessons
 **Lesson 1** (Getting started with the FTC package): https://github.com/ScarlettRobotics/Lesson-1
 
-**Lesson 2** (Object Oriented Programming basics): WIP
+**Lesson 2** (Object Oriented Programming basics): https://github.com/ScarlettRobotics/Lesson-2
 
 **Lesson 3** (Googling, documentation, and research): WIP
 
