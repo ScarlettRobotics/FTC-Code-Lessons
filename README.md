@@ -9,6 +9,4 @@ Basic Java knowledge is assumed in these lessons. Want to get started with Java,
 
 **Lesson 2** (Object Oriented Programming basics): https://github.com/ScarlettRobotics/Lesson-2
 
-**Lesson 3** (Googling, documentation, and research): WIP
-
-**Lesson 4** (Coding in an organization): WIP
+**Lesson 3** (Coding in an organization): WIP
